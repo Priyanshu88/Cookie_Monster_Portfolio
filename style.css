@@ -5,7 +5,7 @@ Project Name: Cookie Monster
 */
 
 body {
-	background: url('..cookie-monster.jpg');
+	background: url("cookie-monster.jpg");
 	/* the follow is the code to have the image display as a full page */
 	background-position: center;
 	background-attachment: fixed;
