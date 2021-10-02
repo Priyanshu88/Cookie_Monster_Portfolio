@@ -1,14 +1,11 @@
 /* 
 
 Project Name: Cookie Monster 
-Client: Cookie Monster
-Author: Chris Castiglione | www.twitter.com/castig | www.castig.org 
-Developed @ One Month in NYC 
 
 */
 
 body {
-	background: url('../cookie-monster.jpg');
+	background: url('..cookie-monster.jpg');
 	/* the follow is the code to have the image display as a full page */
 	background-position: center;
 	background-attachment: fixed;
